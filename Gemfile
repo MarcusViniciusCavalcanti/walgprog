@@ -26,6 +26,7 @@ gem 'breadcrumbs_on_rails'
 gem 'bootstrap-datepicker-rails'
 gem 'active_link_to'
 gem 'redcarpet', '~> 3.4.0'
+gem 'newrelic_rpm'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
